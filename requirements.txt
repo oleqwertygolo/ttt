@@ -7,3 +7,4 @@ BeautifulSoup
 sqlite3
 sqlalchemy
 create_engine
+pip==22.1.2
