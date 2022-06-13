@@ -3,4 +3,3 @@ pandas
 plotly
 requests
 streamlit_echarts
-st_echarts
