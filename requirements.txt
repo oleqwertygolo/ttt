@@ -3,3 +3,4 @@ pandas
 plotly
 requests
 streamlit_echarts
+pip==22.1.2
